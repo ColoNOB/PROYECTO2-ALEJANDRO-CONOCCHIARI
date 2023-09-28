@@ -1,0 +1,65 @@
+body {
+    font-family: Mukta, sans-serif;
+}
+
+.escudo {
+    height: 80%;
+    left: 10%;
+    position: relative;
+}
+
+.headerNOB {
+    background-color: black;
+    color: white;
+    height: 5rem;
+    align-items: center;
+    display: flex;
+    font-size: 2rem;
+}
+
+.principal {
+    margin-top: 10px;
+    padding: 20px
+}
+
+.productos {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+}
+
+.cards {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+
+.cards > img {
+    height: 200px;
+    width: 200px;
+}
+
+@media (min-width: 576px) {
+    .productos {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 768px) {
+    .productos {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 15px;
+    }
+
+    .cards {
+        padding: 10px;
+    }
+}
+
+footer {
+    margin-top: 20px;
+}
+
+i {
+    color: red;
+}

@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "titulo": "Billetera",
+      "descripcion": "ACCESORIOS",
+      "detalle": {
+        "descripcionExtendida": "La billetera del más Grande del Interior con el escudo estampado, súper cómoda, con lugar para 5 tarjetas",
+        "imagenes": ["./Assets/Billetera.jpg"],
+        "precio": "$4.200,00"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Buzo Dama",
+      "descripcion": "DAMA",
+      "detalle": {
+        "descripcionExtendida": "Buzo con capucha, bordado, 100% algodón. Excelente calidad.",
+        "imagenes": ["./Assets/BuzoDama1.jpg"],
+        "precio": "$14.000,00"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Buzo Entrenamiento Rojo 2023",
+      "descripcion": "ENTRENAMIENTO",
+      "detalle": {
+        "descripcionExtendida": "Todos los talles disponibles. Se engancha en la mano para mayor comodidad",
+        "imagenes": ["./Assets/BuzoEnt-1.jpg"],
+        "precio": "$30.700,00"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Camiseta Oficial 1 2023",
+      "descripcion": "FUTBOL",
+      "detalle": {
+        "descripcionExtendida": "Camiseta oficial titular del equipo profesional",
+        "imagenes": ["./Assets/Camiseta-1.jpg"],
+        "precio": "$31.100,00"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Camiseta Oficial 2",
+      "descripcion": "FUTBOL",
+      "detalle": {
+        "descripcionExtendida": "Camiseta oficial alternativa del equipo profesional",
+        "imagenes": ["./Assets/Camiseta-2.jpg"],
+        "precio": "$31.100,00"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Camiseta Réplica D10S",
+      "descripcion": "HOMBRE",
+      "detalle": {
+        "descripcionExtendida": "La réplica de cuando D10S se puso la rojinegra",
+        "imagenes": ["./Assets/CamisetaD10S-1.jpg"],
+        "precio": "$23.200,00"
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "Remera Entrenamiento Roja 2023",
+      "descripcion": "ENTRENAMIENTO",
+      "detalle": {
+        "descripcionExtendida": "Remera liviana, excelente calidad y aireada para entrenar",
+        "imagenes": ["./Assets/Entrenamiento-1.jpg"],
+        "precio": "$17.700,00"
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "Remera Entrenamiento Blanca 2023",
+      "descripcion": "ENTRENAMIENTO",
+      "detalle": {
+        "descripcionExtendida": "Remera liviana, excelente calidad y aireada para entrenar",
+        "imagenes": ["./Assets/Entrenamiento-2.jpg"],
+        "precio": "$17.700,00"
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Mate Acero Escudo",
+      "descripcion": "BAZAR",
+      "detalle": {
+        "descripcionExtendida": "Mate de acero con escudo en blanco y negro",
+        "imagenes": ["./Assets/MateAcero.jpg"],
+        "precio": "$6.300,00"
+      }
+    },
+    {
+      "id": 10,
+      "titulo": "Mochila Rojinegra Escudo",
+      "descripcion": "ACCESORIOS",
+      "detalle": {
+        "descripcionExtendida": "Mochila con dos cierres, apta notebook",
+        "imagenes": ["./Assets/Mochila.jpg"],
+        "precio": "$6.900,00"
+      }
+    },
+    {
+      "id": 11,
+      "titulo": "Pantalón Entrenamiento 2023",
+      "descripcion": "ENTRENAMIENTO",
+      "detalle": {
+        "descripcionExtendida": "Jogging elastizado, súper cómodo y de excelente calidad",
+        "imagenes": ["./Assets/PantalonEnt-1.jpg"],
+        "precio": "$30.100,00"
+      }
+    },
+    {
+      "id": 12,
+      "titulo": "Porta Termo Eco Cuero",
+      "descripcion": "BAZAR",
+      "detalle": {
+        "descripcionExtendida": "Porta Termo con tapa de cuaro ecológico, súper resistente",
+        "imagenes": ["./Assets/PortaTermo.jpg"],
+        "precio": "$6.000,00"
+      }
+    },
+    {
+      "id": 13,
+      "titulo": "Remera Leproso Pintado",
+      "descripcion": "HOMBRE",
+      "detalle": {
+        "descripcionExtendida": "Remera con inscripción Leproso en estilo pintado, gran calidad",
+        "imagenes": ["./Assets/RemeraCaballero-1.jpg"],
+        "precio": "$7.500,00"
+      }
+    },
+    {
+      "id": 14,
+      "titulo": "Remera Trama Dama",
+      "descripcion": "DAMA",
+      "detalle": {
+        "descripcionExtendida": "Remera blanca con escudo, excelente calidad",
+        "imagenes": ["./Assets/RemeraDama-1.jpg"],
+        "precio": "$6.900,00"
+      }
+    },
+    {
+      "id": 15,
+      "titulo": "Short Oficial 1 2023",
+      "descripcion": "FUTBOL",
+      "detalle": {
+        "descripcionExtendida": "Short titular de la equipación oficial del club",
+        "imagenes": ["./Assets/Short-1.jpg"],
+        "precio": "$17.500,00"
+      }
+    },
+    {
+      "id": 16,
+      "titulo": "Short Oficial 2 2023",
+      "descripcion": "FUTBOL",
+      "detalle": {
+        "descripcionExtendida": "Short alternativo de la equipación oficial del club",
+        "imagenes": ["./Assets/Short-2.jpg"],
+        "precio": "$17.500,00"
+      }
+    }
+  ]
+  
