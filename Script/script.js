@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const productosContainer = document.getElementById('productos-container');
   
-    fetch('https://raw.githubusercontent.com/ColoNOB/Proyecto-JS/main/Script/products.json')
+    fetch('./Script/products.json')
       .then(response => response.json())
       .then(data => {
         data.forEach(producto => {
