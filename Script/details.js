@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const productoId = localStorage.getItem('productoSeleccionado');
   
     if (productoId) {
-      fetch('/Script/products.json')
+      fetch('https://raw.githubusercontent.com/ColoNOB/Proyecto-JS/main/Script/products.json')
         .then(response => response.json())
         .then(data => {
           const producto = data.find(p => p.id === parseInt(productoId));
