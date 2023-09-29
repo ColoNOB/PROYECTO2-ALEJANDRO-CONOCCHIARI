@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (event.target.classList.contains('ver-detalle')) {
         const productoId = event.target.getAttribute('data-id');
         localStorage.setItem('productoSeleccionado', productoId);
-        window.location.href = `details.html?id=${productoId}`;
+        window.location.href = `details.html`;
       }
     });
   });
