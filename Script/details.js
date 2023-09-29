@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const detallePrincipal = document.getElementById('detalle-principal');
     const volverButton = document.getElementById('volver');
-  
     const productoId = localStorage.getItem('productoSeleccionado');
   
     if (productoId) {
@@ -22,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   
     volverButton.addEventListener('click', () => {
-      window.location.href = 'index.html';
+      window.location.href = './index.html';
     });
   });
   
