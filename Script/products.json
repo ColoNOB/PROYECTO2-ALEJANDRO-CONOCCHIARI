@@ -17,7 +17,29 @@
         "descripcionExtendida": "Buzo con capucha, bordado, 100% algodón. Excelente calidad.",
         "imagenes": ["./Assets/BuzoDama1.jpg"],
         "precio": "$14.000,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 10
+        }
+      ]
     },
     {
       "id": 3,
@@ -27,7 +49,29 @@
         "descripcionExtendida": "Todos los talles disponibles. Se engancha en la mano para mayor comodidad",
         "imagenes": ["./Assets/BuzoEnt-1.jpg"],
         "precio": "$30.700,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 10
+        }
+      ]
     },
     {
       "id": 4,
@@ -37,7 +81,29 @@
         "descripcionExtendida": "Camiseta oficial titular del equipo profesional",
         "imagenes": ["./Assets/Camiseta-1.jpg"],
         "precio": "$31.100,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 0
+        }
+      ]
     },
     {
       "id": 5,
@@ -47,7 +113,29 @@
         "descripcionExtendida": "Camiseta oficial alternativa del equipo profesional",
         "imagenes": ["./Assets/Camiseta-2.jpg"],
         "precio": "$31.100,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 3
+        }
+      ]
     },
     {
       "id": 6,
@@ -57,7 +145,29 @@
         "descripcionExtendida": "La réplica de cuando D10S se puso la rojinegra",
         "imagenes": ["./Assets/CamisetaD10S-1.jpg"],
         "precio": "$23.200,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 11
+        }
+      ]
     },
     {
       "id": 7,
@@ -67,7 +177,29 @@
         "descripcionExtendida": "Remera liviana, excelente calidad y aireada para entrenar",
         "imagenes": ["./Assets/Entrenamiento-1.jpg"],
         "precio": "$17.700,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 3
+        }
+      ]
     },
     {
       "id": 8,
@@ -77,7 +209,29 @@
         "descripcionExtendida": "Remera liviana, excelente calidad y aireada para entrenar",
         "imagenes": ["./Assets/Entrenamiento-2.jpg"],
         "precio": "$17.700,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 0
+        }
+      ]
     },
     {
       "id": 9,
@@ -107,7 +261,29 @@
         "descripcionExtendida": "Jogging elastizado, súper cómodo y de excelente calidad",
         "imagenes": ["./Assets/PantalonEnt-1.jpg"],
         "precio": "$30.100,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 3
+        }
+      ]
     },
     {
       "id": 12,
@@ -127,7 +303,29 @@
         "descripcionExtendida": "Remera con inscripción Leproso en estilo pintado, gran calidad",
         "imagenes": ["./Assets/RemeraCaballero-1.jpg"],
         "precio": "$7.500,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 0
+        }
+      ]
     },
     {
       "id": 14,
@@ -137,7 +335,29 @@
         "descripcionExtendida": "Remera blanca con escudo, excelente calidad",
         "imagenes": ["./Assets/RemeraDama-1.jpg"],
         "precio": "$6.900,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 3
+        }
+      ]
     },
     {
       "id": 15,
@@ -147,7 +367,29 @@
         "descripcionExtendida": "Short titular de la equipación oficial del club",
         "imagenes": ["./Assets/Short-1.jpg"],
         "precio": "$17.500,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 0
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 3
+        }
+      ]
     },
     {
       "id": 16,
@@ -157,7 +399,29 @@
         "descripcionExtendida": "Short alternativo de la equipación oficial del club",
         "imagenes": ["./Assets/Short-2.jpg"],
         "precio": "$17.500,00"
-      }
+      },
+      "talles": [
+        {
+          "talle": "XS",
+          "cantidadDisponible": 10
+        },
+        {
+          "talle": "S",
+          "cantidadDisponible": 20
+        },
+        {
+          "talle": "M",
+          "cantidadDisponible": 15
+        },
+        {
+          "talle": "L",
+          "cantidadDisponible": 5
+        },
+        {
+          "talle": "XL",
+          "cantidadDisponible": 0
+        }
+      ]
     }
   ]
   
