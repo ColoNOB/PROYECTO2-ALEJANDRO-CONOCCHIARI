@@ -77,6 +77,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
   
   volverButton.addEventListener('click', () => {
-    window.location.href = '../index.html';
+    window.location.href = './index.html';
   });
 });
