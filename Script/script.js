@@ -17,12 +17,12 @@ document.addEventListener('DOMContentLoaded', () => {
         });
       });
   
-    // productosContainer.addEventListener('click', (event) => {
-    //   if (event.target.classList.contains('ver-detalle')) {
-    //     const productoId = event.target.getAttribute('data-id');
-    //     localStorage.setItem('productoSeleccionado', productoId);
-    //     window.location.href = `./details.html`;
-    //   }
-    // });
+    productosContainer.addEventListener('click', (event) => {
+      if (event.target.classList.contains('ver-detalle')) {
+        const productoId = event.target.getAttribute('data-id');
+        localStorage.setItem('productoSeleccionado', productoId);
+        window.location.href = `./details.html`;
+      }
+    });
   });
   
